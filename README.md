@@ -1,16 +1,33 @@
 # flutter_crudapp
 
-A new Flutter project.
+### package & library added in pubsec.yaml 
 
-## Getting Started
+- Phone Authentication 
 
-This project is a starting point for a Flutter application.
+##### Firebase Auth
+##### Firebase Core
 
-A few resources to get you started if this is your first Flutter project:
+- CRUD operation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##### Firebase cloud 
+##### Firebase Firestore
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### User Registration Screen:
+
+<img width="158" alt="image" src="https://user-images.githubusercontent.com/91516739/174711397-3b6860fa-a05d-4c35-9716-abfc02e080de.png">
+
+### OTP verification Screen:
+
+<img width="159" alt="image" src="https://user-images.githubusercontent.com/91516739/174711597-9141723d-a802-425f-856c-94cbdfeb3349.png">
+
+### Create, Read, Update & Delete User Data:
+
+<div padding="5">
+  <img width="157" alt="image" src="https://user-images.githubusercontent.com/91516739/174712123-cf451908-6921-4517-be7d-090b7dfac290.png">
+<img width="160" alt="image" src="https://user-images.githubusercontent.com/91516739/174712339-e438480d-2b6a-4e1d-8aa8-981c3388cc73.png">
+  <div/>
+
+
+
+
