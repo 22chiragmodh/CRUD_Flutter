@@ -1,16 +1,24 @@
-# flutter_crudapp
+## flutter_crudapp 
 
+### Relase mode
 ### package & library added in pubsec.yaml 
 
-- Phone Authentication 
+<ul>
+  
+  #### Phone Authentication
+  
+  <li>Firebase Auth
+  <li>Firebase Core
+    
 
-##### Firebase Auth
-##### Firebase Core
+  
+#### CRUD operation
+  
+  <li>Firebase cloud
+  <li>Firebase Firestore
+    
 
-- CRUD operation
-
-##### Firebase cloud 
-##### Firebase Firestore
+<ul/>
 
 
 ### User Registration Screen:
